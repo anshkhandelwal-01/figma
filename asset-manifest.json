@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/figma/static/css/main.8c1623bc.css",
+    "main.js": "/figma/static/js/main.96abcc07.js",
+    "index.html": "/figma/index.html",
+    "main.8c1623bc.css.map": "/figma/static/css/main.8c1623bc.css.map",
+    "main.96abcc07.js.map": "/figma/static/js/main.96abcc07.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c1623bc.css",
+    "static/js/main.96abcc07.js"
+  ]
+}
